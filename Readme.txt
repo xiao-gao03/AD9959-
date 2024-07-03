@@ -1,4 +1,4 @@
-#AD9959控制板
+#AD9959控制板#
 ##1.code edit software
     Clion
 ##2.PCB edit software
