@@ -1,0 +1,5 @@
+D:\software\code\clion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/software/code/clion/bin/ninja/win/x64/ninja.exe -G Ninja -S D:\project\clion\ad9959 -B D:\project\clion\ad9959\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: D:/project/clion/ad9959/cmake-build-debug

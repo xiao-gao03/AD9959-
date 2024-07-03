@@ -1,0 +1,3 @@
+D:/project/clion/ad9959/cmake-build-debug/CMakeFiles/ad9959.elf.dir
+D:/project/clion/ad9959/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/project/clion/ad9959/cmake-build-debug/CMakeFiles/rebuild_cache.dir
